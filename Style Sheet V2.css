@@ -16,10 +16,12 @@ body {
 	background-color: #f1f1f1;
 	padding: 7px;
 	text-align:center;
+	
 }
 
 .header h1 {
     font-size: 50px;
+	text-decoration: underline;
 }
 
 .topnav {
